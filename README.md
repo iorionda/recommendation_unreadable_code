@@ -1,5 +1,5 @@
 # How to Use
 
-- `git clone git@github.com:iorionda/how_to_create_gem.git`
+- `git clone git@github.com:iorionda/recommendation_unreadable_code.git`
 - `npm install`
 - `grunt serve`
