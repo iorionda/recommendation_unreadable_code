@@ -1,10 +1,3 @@
-## Unreadable code のススメ
-<b><!-- --></b>  
-<b><!-- --></b>  
-Created by [Iori ONDA](https://github.com/iorionda)  
-http://twitter.com/120reset
-
----
 
 ### おまえら読みやすいコード書いてるか？
 
@@ -15,6 +8,14 @@ http://twitter.com/120reset
 ---
 
 ![甘い考えを捨てろ](http://wikiwiki.jp/viplcb/?plugin=ref&page=%B4%C5%A4%A8%A4%F2%BC%CE%A4%C6%A4%ED&src=amae.JPG)
+
+---
+
+## Unreadable code のススメ
+<b><!-- --></b>  
+<b><!-- --></b>  
+Created by [Iori ONDA](https://github.com/iorionda)  
+http://twitter.com/120reset
 
 ---
 
